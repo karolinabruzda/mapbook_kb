@@ -7,5 +7,13 @@ users: list = [
     {'name': 'Patrycja', 'posts': 3, 'city': 'Łódź'},
     {'name': 'Amelia', 'posts': 11, 'city': 'Toruń'},
     {'name': 'Kinga', 'posts': 4, 'city': 'Iława'},
-    {'name': 'Dominik', 'posts': 2, 'city': 'Szczecin'},
+    {'name': 'Patryk', 'posts': 2, 'city': 'Łódź'},
+    {'name': 'Dominik', 'posts': 4, 'city': 'Siedlce'},
+    {'name': 'Michał', 'posts': 11, 'city': 'Kluczbork'},
+    {'name': 'Ola', 'posts': 2, 'city': 'Radom'},
+    {'name': 'Patrycja', 'posts': 72, 'city': 'Kraśnik'},
+    {'name': 'Żerom', 'posts': 2, 'city': 'Warszawa'},
+    {'name': 'Julia', 'posts': 2, 'city': 'Zamość'},
+
+
 ]

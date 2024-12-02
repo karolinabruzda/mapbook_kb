@@ -14,6 +14,4 @@ users: list = [
     {'name': 'Patrycja', 'posts': 72, 'city': 'Kraśnik'},
     {'name': 'Żerom', 'posts': 2, 'city': 'Warszawa'},
     {'name': 'Julia', 'posts': 2, 'city': 'Zamość'},
-
-
 ]

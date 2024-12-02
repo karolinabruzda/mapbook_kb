@@ -1,5 +1,5 @@
 users: list = [
-    {'name': 'Amelia', 'posts': 1, 'city': 'Warszawa'},
+    {'name': 'Karolina', 'posts': 1, 'city': 'Warszawa'},
     {'name': 'Dominik', 'posts': 3, 'city': 'Poznań'},
     {'name': 'Szymon z wąsem', 'posts': 5, 'city': 'Toruń'},
     {'name': 'Szymon', 'posts': 7, 'city': 'Łódź'},
